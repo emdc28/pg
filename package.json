@@ -1,0 +1,12 @@
+{
+  "name": "@react-monorepo/my-stuff",
+  "version": "0.0.1",
+  "private": true,
+  "nx": {
+    "name": "my-stuff"
+  },
+  "dependencies": {
+    "lodash": "^4.17.21",
+    "zod": "^3.24.3"
+  }
+}
